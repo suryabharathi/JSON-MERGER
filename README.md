@@ -40,3 +40,7 @@
   8. If prefferred output size is too low. It will delete the file. Run the program with higher preffered size.</br>
   
   
+   ## Unit Test
+   1. Run "Unittest.py"
+   2. If all Test Cases are correct return OK
+   
