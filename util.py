@@ -1,3 +1,4 @@
+#file to get files, read files, write file
 import os.path
 import json
 def getAllFiles(prefix,path):
