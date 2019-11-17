@@ -1,8 +1,8 @@
+#merging file
 import json
 import os
 import util
 import copy
-
 
 def difftodict(integer, dictionary):
 	containalphabetflag =False
@@ -59,7 +59,6 @@ def listdict(lis,dictionary):
 
 def json_merge_recursive(json1 , json2):
 	for key in json1:
-		#print(key , type(json1[key]), type(json2[key]),json1[key],json2[key])
 		if json2.get(key) ==None:
 			json2[key]=json1.get(key)
         # same type comparison  
