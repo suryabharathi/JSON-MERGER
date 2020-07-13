@@ -1,5 +1,5 @@
 # JSON-MERGER
-### JSON MERGER is a Python application which merge JavaScript Object Notation file format.
+### JSON MERGER is a Python application that merges multiple JavaScript Object Notation file format into a single JSON file.
 </br>
 
 
